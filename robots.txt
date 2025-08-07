@@ -1,1 +1,3 @@
-<!-- Your robots.txt content here -->
+User-agent: *
+Allow: /
+Sitemap: https://mohamedouachmi3.github.io/soupfartichdz/sitemap.xml
